@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saranj99/BSGP_7030_C/r40_py311)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saranj99/Linear-Reg_Python2.0/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/Saranj99/BSGP_7030_C/r40_py311
+https://mybinder.org/v2/gh/Saranj99/Linear-Reg_Python2.0/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
