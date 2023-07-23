@@ -11,6 +11,7 @@ dependencies:
   - matplotlib
   - dill
   - pandas
+  - statsmodels
   - partd
   - bokeh
   - dask
@@ -22,8 +23,10 @@ dependencies:
   - r-plotly
   - r-stringr
   - pip
+  - ols
   - pip:
     - plotly
     - matplotlib
     - scikit-learn
     - numpy
+    
